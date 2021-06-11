@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436937341873",
+    "firebase_url": "https://micro-processor-default-rtdb.firebaseio.com",
+    "project_id": "micro-processor",
+    "storage_bucket": "micro-processor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436937341873:android:856f85348ca6a6ab0d9b90",
+        "android_client_info": {
+          "package_name": "com.micro_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436937341873-vhcg8ca38f463f3qokp1n84sas4kk5en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDLek1I3m1Xb_WOAlSctMip5R2e-6rlF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436937341873-vhcg8ca38f463f3qokp1n84sas4kk5en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
